@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Olá, sou Thiago Mendes! Seja bem vindo ao meu perfil 👋
 
-Estudante Desenvolvedor Web Java Júnior Ful
+Estudante Desenvolvedor Web Java Júnior Full Stack
 
 #### Meu contato:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eduardo-carlos-95a5121ba/)](https://www.linkedin.com/in/thiago-mendes-865236158/)
