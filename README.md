@@ -38,6 +38,9 @@ Estudante Desenvolvedor Júnior Full Stack
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimendes&layout=compact&theme=vision-friendly-dark" />
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=thimendes&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
 ![Snake animation](https://github.com/thimendes/thimendes/blob/output/github-contribution-grid-snake.svg)
 
 
