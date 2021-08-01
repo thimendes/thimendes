@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Estudante Desenvolvedor Web Java Júnior Full Stack
 
-#### Meu contato:
+#### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eduardo-carlos-95a5121ba/)](https://www.linkedin.com/in/thiago-mendes-865236158/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoclacalle@gmail.com)](mailto:thiagomendes0601@gmail.com)
 
