@@ -37,5 +37,7 @@ Estudante Desenvolvedor Web Java Júnior Full Stack
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
+![Snake animation](https://github.com/joaodcpjunior/joaodcpjunior/blob/output/github-contribution-grid-snake.svg)
+
 
 
